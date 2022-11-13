@@ -6,7 +6,7 @@ import classes from './MainHeader.module.css';
 const MainHeader = (props) => {
   return (
     <header className={classes['main-header']}>
-      <h1>A Typical Page con cambios qlq</h1>
+      <h1>A Typical Page con cambios qlq menor</h1>
       <Navigation/>
     </header>
   );
